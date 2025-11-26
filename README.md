@@ -2,7 +2,7 @@
 
 A modern, animated personal portfolio to showcase my projects, skills, and contact info. Built with React, Vite, and Framer Motion for smooth animations and a responsive design.
 
-🌐 Live Demo: [https://your-portfolio.vercel.app](https://your-portfolio.vercel.app)
+🌐 Live Demo: [https://your-portfolio.vercel.app](https://your-portfolio.vercel.app](https://my-portfolio-kohl-omega.vercel.app/))
 
 ## Features
 
