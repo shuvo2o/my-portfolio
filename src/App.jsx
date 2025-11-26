@@ -8,7 +8,7 @@ function App() {
   return (
     <div className='min-h-screen overflow-hidden bg-black text-white'>
     <Navbar/>
-    <main>
+    <main className='my-4'>
       <Outlet/>
     </main>
     <footer>This is project footer</footer>
