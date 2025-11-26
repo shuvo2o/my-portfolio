@@ -4,7 +4,7 @@ import { CgMail } from "react-icons/cg";
 const Navbar = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
   return (
-<header className='flex justify-between items-center p-6 relative'>
+<header className='flex justify-between items-center p-6 relative border-b border-gray-500'>
    <div className='flex items-center gap-2'> <span><CgMail /></span>
    <span>eng.shuvo03@gmail.com</span>
    </div>
