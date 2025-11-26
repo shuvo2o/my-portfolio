@@ -15,7 +15,7 @@ const Hero = () => {
 
                 {/* static  potfolio image */}
                 <div className='relative'>
-                    <img src={profileImg} alt="profile image" className='w-32 h-32 rounded-full relative z-10' />
+                    <img src={profileImg} alt="profile image" className='w-64 h-64 rounded-full relative z-20' />
                 </div>
 
                 {/* animated name tag */}
@@ -26,7 +26,7 @@ const Hero = () => {
                 style={{
                     transformOrigin: "center center"
                 }}
-                className='absolute -rotate-3 -top-0 -right-28 z-30 bg-white text-black px-4 py-2 rounded-full shadow-lg'>
+                className='absolute -rotate-3 -top-0 -right-15 z-30 bg-white text-black px-4 py-2 rounded-full shadow-lg'>
                     <p className='text-sm font-medium'>Shuvo CH. Das 👋🏼 </p>
                 </motion.div>
             </div>

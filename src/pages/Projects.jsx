@@ -1,11 +1,11 @@
-import React from 'react';
+import React from 'react'
 
 const Projects = () => {
-    return (
-        <div>
-            <h2>This is Projects</h2>
-        </div>
-    );
-};
+  return (
+    <div>
+      Projects
+    </div>
+  )
+}
 
-export default Projects;
+export default Projects

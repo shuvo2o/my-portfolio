@@ -11,7 +11,6 @@ function App() {
     <main className='my-4'>
       <Outlet/>
     </main>
-    <footer>This is project footer</footer>
 
     </div>
   )
