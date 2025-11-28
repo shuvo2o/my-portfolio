@@ -20,7 +20,7 @@ A modern, animated personal portfolio to showcase my projects, skills, and conta
 - Tailwind CSS (for styling)
 
 ## Getting Started
-
+If you want to same design, Please DM :📧shuvodas340985@gmail.com 
 ### Prerequisites
 - Node.js 16+
 - npm or yarn
