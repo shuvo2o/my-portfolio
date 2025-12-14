@@ -30,3 +30,4 @@ If you want to same design, Please DM :📧shuvodas340985@gmail.com
 git clone <your-repo-url>
 cd my-portfolio
 npm install
+This is very minimal React Portfolio Project 
